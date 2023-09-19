@@ -30,7 +30,7 @@
 
 This sample demonstrates a few approaches for creating ChatGPT-like experiences over your own data using the Retrieval Augmented Generation pattern. It uses Azure OpenAI Service to access the ChatGPT model (gpt-35-turbo), and Azure Cognitive Search for data indexing and retrieval.
 
-The repo includes sample data so it's ready to try end to end. In this sample application we use a fictitious company honeywell, and the experience allows its employees to ask questions about the financial condition of company.
+The repo includes sample data so it's ready to try end to end. In this sample application we use a company called honeywell, and the experience allows its employees to ask questions about the financial condition of company.
 
 ![RAG Architecture](docs/appcomponents.png)
 
@@ -42,7 +42,7 @@ The repo includes sample data so it's ready to try end to end. In this sample ap
 * Settings directly in the UX to tweak the behavior and experiment with options
 * Optional performance tracing and monitoring with Application Insights
 
-![Chat screen](docs/chatscreen.png)
+![Chat screen](docs/chatscreen.png.jpg)
 
 ## Azure account requirements
 
